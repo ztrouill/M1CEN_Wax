@@ -1,0 +1,11 @@
+{
+  "chapitre": {
+    "id" : 0,
+    "title": "Introduction",
+    "color": "red",
+    "route": "introduction",
+    "isActive": false
+  },
+  "intro":  [
+    "<span class='first-letter'>D</span>’où vient le <span class='bold'>wax<div class='underlined underlined-white'></div></span> et ses motifs colorés ?  <span class='bold'>“Wax hollandais”<div class='underlined underlined-white'></div></span>, nous disent les enseignes des boutiques où l’on trouve ces étoffes bariolées <br/>Pourtant, celles qui le portent le plus souvent sont issues de la <span class='bold'>diaspora d’Afrique de l’Ouest<div class='underlined underlined-white'></div></span>. Mais s’agit-il alors d’une étoffe <span class='bold'>traditionnelle<div class='underlined underlined-white'></div></span>, et pourquoi celle-ci serait-elle hollandaise ? Et le wax est-il un tissu exclusivement féminin ? <br/> Et si l’on tentait de <span class='bold'>tisser une histoire de femmes et de costumes<div class='underlined underlined-white'></div></span> en Afrique de l’Ouest ?"    ]
+}

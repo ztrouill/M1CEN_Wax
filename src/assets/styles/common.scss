@@ -1,0 +1,139 @@
+.red {
+    color: $red;
+}
+
+.yellow {
+    color: $yellow;
+}
+
+.blue {
+    color: $blue;
+}
+
+.purple {
+    color: $purple;
+}
+
+.bebas {
+    font-family: "Bebas Neue";
+    font-weight: normal;
+    letter-spacing: 2px;
+}
+
+@each $themeColor, $i in $themeColours {
+    .underlined-#{$themeColor} {
+        background-color: $i;
+    }
+}
+
+.underlined {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    height: 50%;
+    width: 100%;
+    z-index: -1;
+}
+
+.bold {
+    position: relative;
+    font-weight: 400;
+    z-index: 9;
+}
+
+.italic {
+    font-style: italic;
+}
+
+@keyframes growTxt {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
+
+section {
+    //width: 500vw;
+    width: 100vw;
+    display: flex;
+}
+
+.intro-title {
+    font-size: 4vw;
+    color: $black;
+    padding-bottom: 4vh;
+}
+
+.first {
+    max-width: 55%;
+}
+
+.second {
+    max-width: 100%;
+}
+
+p {
+    font-size: 1.3vw;
+}
+
+.paragraph {
+    text-align: left;
+    p {
+        line-height: 5vh;
+    }
+    .underlined {
+        position: absolute;
+        top: 1.3vh;
+        left: 0;
+        height: 8px;
+        width: 100%;
+        z-index: -1;
+    }
+}
+
+.paragraph-0 {
+    .underlined-white {
+        background-color: adjust-color($color: $red, $saturation: 10%, $lightness: 20%);
+    }
+}
+
+.paragraph-1 {
+    .underlined-white {
+        background-color: adjust-color($color: $yellow, $saturation: 10%, $lightness: 20%);
+    }
+}
+
+.paragraph-2 {
+    .underlined-white {
+        background-color: adjust-color($color: $blue, $saturation: 10%, $lightness: 20%);
+    }
+}
+
+.paragraph-3 {
+    .underlined-white {
+        background-color: adjust-color($color: $purple, $saturation: 10%, $lightness: 20%);
+    }
+}
+
+.hide-scroll-y {
+    overflow-y: hidden;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.first-letter {
+    font-family: 'Bebas Neue';
+    font-size: 2em;
+}
+
+.next {
+    width: 30vw;
+    align-self: center;
+    img {
+        width: 10vw;
+    }
+}

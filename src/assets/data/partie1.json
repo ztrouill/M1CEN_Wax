@@ -1,0 +1,27 @@
+{
+  "chapitre": {
+    "id" : 1,
+    "title": "Une histoire (mé)tissée",
+    "color": "yellow",
+    "route": "histoire-metisee",
+    "isActive": false
+  },
+  "intro":  [
+  "<span class='first-letter'>N</span>ous devons les premières descriptions de costumes dans la région aux <span class='bold'>voyageurs arabes<div class='underlined underlined-white'></div></span> qui l’explorent au XIe siècle, comme le géographe <span class='bold'>Al Bakrî<div class='underlined underlined-white'></div></span>.",
+  "C’est le début d’une <span class='bold'>histoire complexe et métissée<div class='underlined underlined-white'></div></span> des étoffes et costumes en Afrique de l’Ouest, de la <span class='bold'>nudité<div class='underlined underlined-white'></div></span> et des <span class='bold'>usages<div class='underlined underlined-white'></div></span> décrits par les voyageurs arabes et européens à la complexité que nous connaissons aujourd’hui, en passant par le morcellement et l’exploitation coloniale de la région, qui participent de l’histoire du <span class='bold'>costume et des tissus<div class='underlined underlined-white'></div></span>."
+  ],
+  "p": [
+    [
+       "<span class='first-letter'>D</span>ès l’exploration du continent par <span class='bold'>Al Bakrî<div class='underlined underlined-yellow'></div></span> au XIe siècle, semble s’imposer le mythe d’une <span class='bold'>Afrique<div class='underlined underlined-yellow'></div> </span><span class='bold'>sauvage<div class='underlined underlined-yellow'></div></span><span class='bold'> nue<div class='underlined underlined-yellow'></div></span>. Mais une lecture de son texte présente d’emblée le costume comme un enjeu de <span class='bold'>pouvoir<div class='underlined underlined-yellow'></div></span>  et un signe de <span class='bold'>richesse<div class='underlined underlined-yellow'></div></span>, comme dans sa <span class='bold'><span class='underlined-container'>description</span><div class='underlined underlined-yellow'></div> de la cour du souverain de l’empire du Ghana.<div class='underlined underlined-yellow'></div></span>"
+    ],
+    [
+      "<span class='first-letter'>O</span>n peut retenir la même chose du chapitre dédié à l’habillement dans la <span class='italic bold'>Description de l’Afrique <div class='underlined underlined-yellow'></div></span><span class='bold'>de Léon l’Africain<div class='underlined underlined-yellow'></div></span>,issue de son voyage au Soudan, et qui reprend pour beaucoup les connaissances du voyageur arabe Ibn Battuta. Lui aussi distingue :",
+      "<span class='italic bold'>“Les Seigneurs<div class='underlined underlined-yellow'></div></span> et gens d'autorité [qui] <span class='italic'>vêtent des chemises en cottons.“</span> Et les femmes qui filent, mais qui <span class='italic'>“vont toutes <span class='bold'>découvertes depuis la ceinture<div class='underlined underlined-yellow'></div></span> en sus, tant mariées qu'autrement; et de la <span class='bold'>ceinture en bas<div class='underlined underlined-yellow'></div></span>, s'afublent d'un petit linceul de ces <span class='bold'>draps de cottons,<div class='underlined underlined-yellow'></div></span> <span class='bold'>ceint à la traverse.<div class='underlined underlined-yellow'></div></span>“</span>"
+
+    ]
+  ],
+  "subtitles": [
+    "<span class='subtitle'>Pouvoir<div class='underlined underlined-yellow'></div><br/></span> et</span><br/> <span class='subtitle'>richesses<div class='underlined underlined-yellow'></div></span>",
+    "<div class='underlined underlined-yellow'></div>"
+  ]
+}

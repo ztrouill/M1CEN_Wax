@@ -9,15 +9,32 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "node-sass": "^5.0.0",
+    "parallax-js": "^3.1.0",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.1.0",
+    "vue": "^2.6.11",
+    "vue-parallaxy": "^1.1.1",
+    "vue-rellax": "^0.2.0",
+    "vue-route": "^1.5.1",
+    "vue-router": "^3.2.0",
+    "vue-scroll": "^2.1.13",
+    "vue-scrollto": "^2.20.0",
+    "vue-xls-csv-parser": "0.0.21",
+    "vuex": "^3.6.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "^4.5.9",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "file-loader": "^6.2.0",
+    "style-loader": "^2.0.0",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^4.3.1",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {

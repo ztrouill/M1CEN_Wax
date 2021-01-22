@@ -1,0 +1,20 @@
+{
+  "chapitre": {
+    "id": 2,
+    "title": "Usages",
+    "color": "blue",
+    "route": "usages",
+    "isActive": false
+  },
+  "intro":  [
+    "<span class='first-letter'>L</span>e <span class='bold'>tissu-pagne<div class='underlined underlined-white'></div></span> est un textile emblématique de la culture d’Afrique de l’Ouest, particulièrement à Lomé, au Togo où il arrive pour être ensuite redistribué dans l’ensemble de la région. Son intérêt se trouve dans les <span class='bold'>messages<div class='underlined underlined-white'></div></span> que le pagne wax, miroir social, véhicule : des messages qui se situent entre <span class='bold'>l’identité culturelle<div class='underlined underlined-white'></div></span> de celle qui porte le pagne et l’affirmation de sa <span class='bold'>position sociale<div class='underlined underlined-white'></div></span> et son <span class='bold'>milieu<div class='underlined underlined-white'></div></span>. En effet, porter le mauvais tissu, au mauvais moment, peut être synonyme de <span class='bold'>cataclysme social.<div class='underlined underlined-white'></div></span>"
+  ],
+  "p": [
+    [
+       "<span class='italic'><span class='first-letter'>“L</span>e pagne, c’est une forme de beauté. C’est une beauté <span class='bold'>essentiellement féminine”<div class='underlined underlined-blue'></div></span></span>, affirme Afi, jeune femme éwée, à propos du tissu-pagne togolais. Mais au-delà du pagne, et dans tous ses usages, c’est toute la <span class='bold'>richesse du costume<div class='underlined underlined-blue'></div></span> qu’admirent les Européens. Au XXe siècle, les photographes ont un regard souvent ambivalent sur le corps des femmes africaines. Leurs clichés nous permettent de <span class='bold'>contempler de multiples étoffes<div class='underlined underlined-blue'></div></span>, entre batik, bazin, pagnes, wax, lopko, et bien d’autres."
+    ]
+  ],
+  "subtitles": [
+    "<span class='subtitle'>Costume comme parure<div class='underlined underlined-blue'></div>"
+    ]
+}
