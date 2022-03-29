@@ -1,6 +1,6 @@
 <template>
   <div class="first-view" :class="findColor()" >
-      <div >
+      <div v-rellax="rellax">
         <div class="fw-wrapper" >
             <div class="number">{{ chapitre.id }}</div>
             <div class="paragraph first" :class="getClass(chapitre.id)">
@@ -23,20 +23,15 @@
             </video>
     </figure>
 
-     <!--figure class="figure-first" :class="findClass('img-intro-')">
-        <figcaption> <span class="italic">{{ legend.titre }},</span> <span v-if="legend.auteur">{{legend.auteur}},</span> {{legend.annee }} </figcaption>
-        <img :src="getImg(chapitre.id)" v-if="chapitre.id != 0">
-        <video v-else controls>
-            <source src="@/assets/img/0/0.mp4">
-        </video>
-    </figure-->
+    <img src="../assets/img/motifs/22.png" v-if="chapitre.id == 3"
+        class="motifs" v-rellax="rellaxImg"/>
   </div>
 </template>
 
 <script>
+import Illustration from './Illustration.vue'
 import VueRellax from 'vue-rellax'
 import Vue from 'vue'
-import Illustration from './Illustration.vue'
 Vue.use(VueRellax);
 
 export default {
@@ -54,6 +49,11 @@ export default {
                speed: -2,
                horizontal: true,
                vertical: false
+           },
+            rellaxImg: {
+               speed: -1,
+               horizontal: true,
+               vertical: false
            }
         }
     },
@@ -68,7 +68,6 @@ export default {
             return str + this.chapitre.id;
         },
         getImg(id) {
-        console.log('id - ' + id);
         return require("@/assets/img/" + id + "/0.png");
       },
     }
@@ -117,19 +116,21 @@ export default {
 
 .img-intro-0 {
     figcaption {
-        left: -30.5vw;
+       left: -32.5vw;
+       // left: -30.5vw;
     }
 }
 
 .img-intro-1 {
     figcaption {
-        left: -29.5vw;
+        left: -31.5vw;
+     //   left: -29.5vw;
     }
 }
 
 .img-intro-2 {
     figcaption {
-        left: -31.5vw;
+        left: -34.5vw;
     }
 }
 
@@ -150,6 +151,11 @@ export default {
        left: 0;
        top: 7vh;
     }
-}
+    }
+
+    .motifs {
+        right: 99vw;
+        z-index: 0;
+    }
 }
 </style>

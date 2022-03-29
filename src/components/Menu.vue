@@ -1,5 +1,5 @@
 <template>
-  <nav class="menu-wrapper"> <!-- ici mettre une classe dynamique selon si c'est le menu de la galerie ou le menu des parties -->
+  <nav class="menu-wrapper">
       <ul class="menu-main">
             <li class="bebas menu-main-title"
                     v-for="menu in menus"
@@ -16,9 +16,15 @@
                     <div class="underlined menu-main-underlined underlined-start"
                         :class="getColor(menu.color)"/>
             </li>
-        <li class="bebas menu-main-galerie"><span class="red">G</span><span class="yellow">A</span><span class="blue">L</span><span class="purple">E</span><span class="red">R</span><span class="yellow">I</span><span class="blue">E</span></li>
+        <li class="bebas menu-main-galerie"
+              v-scroll-to='{
+                        el: "#galerie",
+                        onStart: hideMenu,
+                        x: false}'>
+            <span class="red-color to-black">G</span><span class="yellow-color to-black">A</span><span class="blue-color to-black">L</span><span class="purple-color to-black">E</span><span class="red-color to-black">R</span><span class="yellow-color to-black">I</span><span class="blue-color to-black">E</span>
+        </li>
       </ul>
-      <div id="cross-container" @click="hideMenu()">
+      <div class="cross-container" @click="removeMenu">
           <img src="@/assets/img/cross.svg"/>
       </div>
   </nav>
@@ -43,8 +49,6 @@ export default {
         },
         playAnimationOut(event) {
             const el = event.target.childNodes[1];
-
-           // window.getComputedStyle(document.querySelector("")
             el.classList.add("underlined-out");
             el.classList.remove("underlined-in");
             el.classList.add("underlined-start");
@@ -55,13 +59,16 @@ export default {
         },
         setFocus() {
             if (document.querySelector("#content-" + this.chapitre.id))
-                document.querySelector("#content-" + this.chapitre.id).classList.remove("scrollTo-enter-active"); // je reset la position de la section active
+                document.querySelector("#content-" + this.chapitre.id).classList.remove("scrollTo-enter-active");
           
         },
         hideMenu() {
-            document.querySelector("body").classList.remove("hide-scroll-y"); // je remets le scroll y
+            document.querySelector("body").classList.remove("hide-scroll-y"); 
             this.$emit('hide-menu', this.menu);
             this.chapitre.isActive = !this.chapitre.isActive;
+        },
+        removeMenu() {
+            this.$emit('hide-menu', this.menu);
         }
     },
 
@@ -140,8 +147,9 @@ a {
             align-items: flex-end;
             position: absolute;
             bottom: 0;
-            margin-bottom: 1em;
-            right: 7vw;
+            margin-bottom: 2vh;
+            right: 5vw;
+            cursor: pointer;
         }
     }
 
@@ -179,7 +187,7 @@ a {
             width: 0;
         }
      }
-    #cross-container {
+    .cross-container {
         position: absolute;
         top: 0;
         right: 0;
@@ -190,6 +198,11 @@ a {
     }
 }
 
+.to-black {
+    &:hover {
+        color: $black;
+    }
+}
 
 
 </style>

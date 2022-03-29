@@ -11,7 +11,8 @@
                <Menu :chapitre="chapitre"
                     :menu="menu"
                     v-if="menu"
-                    @hide-menu="hideMenu"/>
+                    @hide-menu="hideMenu"
+                    />
             </transition>
   </div>
 </template>

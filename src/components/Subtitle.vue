@@ -2,7 +2,7 @@
   <div v-html="subtitle"
         class="bebas subtitle-container"
        
-        v-scroll="onScroll"
+
         >
       {{subtitle}}
   </div>
@@ -11,7 +11,6 @@
 <script>
 import Vue from 'vue'
 import VueRellax from 'vue-rellax'
-import Vuex from "vuex"
 import vuescroll from 'vue-scroll'
 
 Vue.use(VueRellax);
@@ -33,17 +32,9 @@ export default {
         }
     },
     methods: {
-        ...Vuex.mapActions(["getColor"]),
         getColor() {
             return 'underlined-' + this.color;
         },
-        test() {
-            console.log("helo");
-            console.log(this.rellax);
-        },
-        onScroll(e, position) {
-            console.log("e - " + e + "top - " + position.scrollTop + "left - " +  position.scrollLeft + "pos - " + position);
-        }
     },
 
 }

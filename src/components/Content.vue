@@ -14,9 +14,11 @@
     <third-view   :chapitre="chapitre"
                   :content="p[1]"
                   :subtitle="subtitles[1]"
-                  v-if="chapitre.id == 1"
-                  :legend="src[this.chapitre.id][1]"
+                  v-if="chapitre.id == 1 || chapitre.id == 2"
+                  :legend="src[this.chapitre.id][2]"
                   />
+    <Next :chapitre="chapitre"
+          v-if="chapitre.id == 0"/>
   </div>
 </template>
 
@@ -25,11 +27,7 @@ import FirstView from "@/components/FirstView.vue"
 import SecondView from "@/components/SecondView.vue"
 import ThirdView from "@/components/ThirdView.vue"
 import source from '@/assets/data/sources.json'
-import VueRellax from 'vue-rellax'
-import Vue from 'vue'
-
-Vue.use(VueRellax);
-
+import Next from "@/components/Next.vue"
 
 export default {
   
@@ -39,12 +37,12 @@ export default {
         source: Array
     },
     components: {
-      FirstView, SecondView, ThirdView
+      FirstView, SecondView, ThirdView, Next
     },
     data() {
       return {
          rellax: {
-               speed: 0,
+               speed: -2,
                horizontal: true,
                vertical: false
            },
@@ -59,9 +57,8 @@ export default {
         return require("@/assets/img/" + id + "/" + i + ".png");
       },
       setContentId() {
-        console.log("id - " + this.chapitre.id);
         return "content-" + this.chapitre.id;
-      },
+      }
     }  
 }
 </script>
@@ -74,7 +71,10 @@ export default {
     max-height: 100vh;
     z-index: 999;
   }
- 
+  .next {
+    color: $black;
+    width: 11vw;
+  }
 }
 
 li {

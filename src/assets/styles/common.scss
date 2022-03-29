@@ -1,17 +1,56 @@
 .red {
     color: $red;
+    background-color: $red;
+}
+
+.red-background {
+    background: $red;
+}
+
+.yellow-background {
+    background: $yellow;
+}
+
+.blue-background {
+    background: $blue;
+}
+
+.purple-background {
+    background: $purple;
+}
+
+
+.red-color {
+    color: $red;
+}
+
+
+.yellow-color {
+    color: $yellow;
+}
+
+.blue-color {
+    color: $blue;
+}
+
+.purple-color {
+    color: $purple;
 }
 
 .yellow {
     color: $yellow;
+    background-color: $yellow;
+
 }
 
 .blue {
     color: $blue;
+    background-color: $blue;
 }
 
 .purple {
     color: $purple;
+    background-color: $purple;
 }
 
 .bebas {
@@ -55,9 +94,9 @@
 }
 
 section {
-    //width: 500vw;
     width: 100vw;
     display: flex;
+    background: white;
 }
 
 .intro-title {
@@ -136,4 +175,12 @@ p {
     img {
         width: 10vw;
     }
+}
+
+.hide-scroll-x {
+    overflow-x: hidden;
+}
+
+.motifs {
+    position: absolute;
 }

@@ -1,5 +1,5 @@
 <template>
-  <div class="second-view" :id="getId()">
+  <div class="second-view" :id="getId()" v-rellax="rellax">
      <div class="content-container">
       <subtitle :subtitle="subtitle"
                 :color="chapitre.color"
@@ -17,13 +17,10 @@
       <Illustration :legend="legend"
                     :i="1"
                     :chapter="chapitre.id"
-                    v-if="chapitre.id > 1"/>
+                    v-if="chapitre.id > 0"/>
                     
-  <figure class="img-container" v-if="chapitre.id==1">
-            <img :src="getImg(chapitre.id, 1)">
-            <img v-if="chapitre.id == 1" :src="getImg(chapitre.id, 2)">
-        </figure>
-
+    <Next :chapitre="chapitre"
+          v-if="this.chapitre.id == 3"/>
     </div>
 </template>
 
@@ -32,6 +29,7 @@ import Vue from 'vue'
 import VueRellax from 'vue-rellax'
 import Subtitle from "@/components/Subtitle.vue"
 import Illustration from '@/components/Illustration.vue'
+import Next from "@/components/Next.vue"
 
 Vue.use(VueRellax);
 export default {
@@ -63,7 +61,7 @@ export default {
            }
     },
     components: {
-        Subtitle, Illustration
+        Subtitle, Illustration, Next
     },
     methods: {
         getImg(id, i) { 
@@ -97,36 +95,31 @@ export default {
     }
   }
   }
-  .img-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 10vh;
-  img {
-    width: 45vw;
-    padding-top: 15vh;
-    &:first-child {
-        padding-left: 10vw;
+
+  .figure-first {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    figcaption {
+      left: 0;
+      bottom: 5vh;
+    }
+    img {
+      width: 45vw;
       }
     }
-    &:last-child {
-      padding-left: 10vw;
-    }
-  }
 }
 
 .paragraph.second > p {
-  font-size: 2.8vh;
+  font-size: 2.5vh;
   .bold > .underlined {
-    top: 1.8vh;
+    top: 1.3vh;
   }
 }
 
-
-
 #snd-view-2, #snd-view-3 {
   display: flex;
-  //flex-direction: column;
   width: 129vw;
   .subtitle {
     font-size: 7vw;
@@ -136,7 +129,7 @@ export default {
     }
   }
   .content-container {
-    width: 90vw;//60vw;
+    width: 90vw;
     .subtitle-container {
       padding-left: 0;
     }
@@ -144,8 +137,6 @@ export default {
       padding: 6vw;
       width: 65vw;
     }
-  //align-self: center;
-  //padding-top: 5vw;//6vw;
   }
 }
 
@@ -158,6 +149,7 @@ export default {
   }
   .content-container {
     .paragraph {
+      padding: 17vw;
       padding-top: 0;
     }
   }
@@ -174,7 +166,16 @@ export default {
   }
 }
 
+
 .padding-top {
   padding-top: 4vw;
+}
+
+#snd-view-2 {
+  .figure-first {
+    figcaption {
+      left: -22.5vw;
+    }
+  }
 }
 </style>

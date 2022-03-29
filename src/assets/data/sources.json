@@ -10,6 +10,8 @@
       "source": "https://www.spicee.com/fr/program-guest/les-nanettes-princesses-du-wax-1390"
     }
   ],
+
+
   [
     {
       "annee": 1797,
@@ -21,6 +23,15 @@
       "source": "https://www.reseau-canope.fr/musee/collections/fr/museum/mne/tableau-des-principaux-peuples-de-l-afrique/4e1fd3b2-64ca-4890-bb00-24dbd87984ee"
     },
     {
+      "annee": 1859,
+      "auteur": "Mac Guckin de Slane (traduction)",
+      "titre": "Description de la cour du souverain de l'empire du Ghana",
+      "ouvrage": "Description de l'Afrique septentrionale",
+      "legende": "Traduction du texte du géographe Al Bakri (1040-1094). Texte datant du XXIe siècle",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/bpt6k56091900/f390.item"
+    },
+    {
       "annee": 1605,
       "auteur": "",
       "titre": "Femmes dans le royaume de Guinée",
@@ -28,8 +39,101 @@
       "legende": "Cette illustration représente des femmes d’âges et catégories sociales différentes, des “villageoise” (B) et “femme ordinaire” (D) à la femme plus aisée, métisse (ou “demi blanche et demi noire”, A), en passant par la “jeune fille” (C).",
       "collection": "BnF",
       "source": "https://gallica.bnf.fr/ark:/12148/bpt6k1510578b/f18.item"
+    },
+    {
+      "annee": 1581,
+      "auteur": "Abraham De Bruyn",
+      "titre": "Africaines",
+      "ouvrage": "Jean-Jacques Boissard et Abraham De Bruyn, Habitus variarum orbis gentium, 1581.",
+      "legende": "Les illustrations de cet ouvrage de 1581 semblent bien loin de ces premières descriptions des voyageurs européens et arabes et vêtent ces trois “Africaines” de lourds drapés.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b8447128r/f70.item.zoom#"
+    },
+    {
+      "annee": "c. 1900",
+      "auteur": "",
+      "titre": "Bande de tissu",
+      "ouvrage": "",
+      "legende": "Cette bande de coton rayée pour pagne servait probablement dans des échanges en Afrique de l'Ouest, dans la ville de Kissidougou en Guinée.",
+      "collection": "Musée du Quai Branly",
+      "source": "Musée du quai branly, n° d'inventaire 71.1904.32.15"
+    },
+    {
+      "annee": 1853,
+      "auteur": "Jacques-François Llanta",
+      "titre": "Femme Maure habillée d'une pièce de Guinée bleue de l'Inde, Sénégal.",
+      "ouvrage": "David Boilat, Esquisses sénégalaises, physionomie du pays, Peuplades, Commerce, Religions, Passé et avenir, Récits et legendes, 1853.",
+      "legende": "Le vêtement est le fruit de métissages culturels et d'échanges commerciaux : sous l'influence des voyageurs arabes, et avec l'introduction de l'Islam en Afrique de l'Ouest, les corps se couvrent, comme celui de cette princesse sénégalaise vêtue d'une pièce de Guinée bleue de l'Inde.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b23001280/f12.item"
+    },
+    {
+      "annee": 1853,
+      "auteur": "Jacques-François Llanta",
+      "titre": "Ndeté-Yalla, Reine du Walo, en tenue royale, Sénégal.",
+      "ouvrage": "David Boilat, Esquisses sénégalaises, physionomie du pays, Peuplades, Commerce, Religions, Passé et avenir, Récits et legendes, 1853.",
+      "legende": "La reine Ndeté-Yalla, connue pour avoir résisté à la colonisation européenne, apparaît ici richement vêtue et parée de bijoux.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b23001280/f5.item"
+    },
+    {
+      "annee": 1982,
+      "auteur": "André Blandin",
+      "titre": "Teinture à l'indigo",
+      "ouvrage": "",
+      "legende": "Sur cette photographie prise en Côte d'Ivoire, une femme teint une pièce de tissu à l'indigo, rendant ainsi visibles sur l'étoffe des motifs imprimés à la cire.",
+      "collection": "Musée du Quai Branly",
+      "source": "http://www.quaibranly.fr/fr/explorer-les-collections/base/Bookmark/action/share/encodedNotices/YToxOntzOjQ6IldvcmsiO2E6Mjp7aTowO3M6NjoiOTYzMjUzIjtpOjE7czo2OiI0MjM2NTIiO319/"
+    },
+    {
+      "annee": "c. 1900-1925",
+      "auteur": "",
+      "titre": "Pagne",
+      "ouvrage": "",
+      "legende": "On reconnaît sur ce pagne des techniques des ethnies ewe et ashanti. La trame de coton local est teinte à l'indigo. On y a ajouté des motifs géométriques, disposés dans un arrangement aléatoire qui diffère des tissus ewe dans lesquels les motifs sont agencés de façon plus régulière. On peut observer, verticalement, la délimitation des bandes de tissu qui ont été assemblées après le tissage, car les métiers à tisser qui ont été utilisés pour ce pagne sont trop étroits pour réaliser de larges pièces de tissu. Ce type de pagnes est destiné à un chef.",
+      "collection": "Musée du Quai Branly",
+      "source": "http://www.quaibranly.fr/fr/explorer-les-collections/base/Bookmark/action/share/encodedNotices/YToxOntzOjQ6IldvcmsiO2E6Mjp7aTowO3M6NjoiNDIzNjUyIjtpOjE7czo2OiI0MzU1MzgiO319/"
+    },
+    {
+      "annee": 1640,
+      "auteur": "Willem Jansz Blaeu",
+      "titre": "Guinea",
+      "ouvrage": "Willem Jansz Blaeu, Guinea, 1640.",
+      "legende": "Sur cette carte de la Guinée, issue d’un atlas hollandais du XVIIe siècle, on peut voir la côte de Quaqua, avec les côtes de Cap Laho, surnommée Côte des Six Bandes, et de Corbi Lahou, Côte des Cinq Bandes, qui tirent leur surnom de la composition des tissus que l’on pouvait y trouver. Le navire qui semble s’éloigner de ces côtes chargé de marchandises représente bien l’enjeu commercial que représente cette région pour les empires coloniaux européens. Et pourtant déjà, les représentations des peuples qui ornent le titre oublient les usages locaux du tissu, pour représenter des corps nus, symboles d’une Afrique prétendue sauvage.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b531968312/f2.item.r=Willem%20blaeu.zoom"
+    },
+
+    {
+      "annee": 1796,
+      "auteur": "L. F. Labrousse",
+      "titre": "Frontispice de l'Afrique",
+      "ouvrage": "Jacques Grasset de Saint-Sauveur, Encyclopédie des voyages contenant l'abrégé historique des mœurs, usages..., religions..., sciences, arts et commerce de tous les peuples et la collection complète de leur habillement, 1796.",
+      "legende": "Sur le frontispice de l'Afrique réalisé par le lithographe L. F. Labrousse pour l'encyclopédie de Jacques Grasset de Saint-Sauveur, le continent est représenté par une femme richement vêtue mais dont le sein nu symbolise une Afrique sauvage. Il s'agit d'un code de représentation et d'un stérotype qui s'impose dans les représentations picturales de l'Afrique.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/bpt6k852587b/f13.item"
+    },
+    {
+      "annee": 1796,
+      "auteur": "L. F. Labrousse",
+      "titre": "Femme de la Côte d'or",
+      "ouvrage": "Jacques Grasset de Saint-Sauveur, Encyclopédie des voyages contenant l'abrégé historique des mœurs, usages..., religions..., sciences, arts et commerce de tous les peuples et la collection complète de leur habillement, 1796.",
+      "legende": "”L’homme du commun porte [...] une chemise , mais avec des manches ; les femmes portent aussi une robe faite à peu près comme celle des hommes ; mais outre la ceinture qui la tient retroussée, elles ont autour du corps une bande de cuir où pendent leurs couteaux, leurs bourses, et un trousseau de clefs qui leur sert d’ornement, quoique souvent elles n’ayent ni coffre, ni garde robe ; tel est l’habit qu’elles portent dans l’intérieur de leurs maisons. Quand elles sortent elles se lavent tout le corps, puis elles prennent une chemise qu’elles serrent avec une ceinture, à laquelle est attachée une autre pièce de toile qu’elles retroussent sous les bras comme une manteline : elles ont grand soin de leur tête et de tresser leurs cheveux. Elles portent des pendants d’oreilles, qui sont des boucles de cuivre jaune ; elles ont aussi des bracelets d’ivoire ou de cuivre, des anneaux aux jambes [...].”",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/bpt6k852587b/f137.item#"
+    },
+    {
+      "annee": 1796,
+      "auteur": "L. F. Labrousse",
+      "titre": "Femme de qualité et femme du commun du royaume du Bénin",
+      "ouvrage": "Jacques Grasset de Saint-Sauveur, Encyclopédie des voyages contenant l'abrégé historique des mœurs, usages..., religions..., sciences, arts et commerce de tous les peuples et la collection complète de leur habillement, 1796.",
+      "legende": "Le vêtement est un marqueur social et la nudité souvent observée et représentée par les Européens est souvent le signe d'un milieu social moins aisé. Aussi, si la \"femme du commun\" est sobrement vêtue d'un pagne et d'un collier, la \"femme de qualité\" est parée de bijoux et d'étoffes plus riches.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/bpt6k852587b/f167.item#"
     }
   ],
+
+
   [
     {
       "annee": "1930-1950",
@@ -48,8 +152,37 @@
       "legende": "Blaise Bonnevide, photographe français installé au Sénégal, a réalisé de nombreux portraits photographiques de Sénégalais et Sénégalaise. Ce portrait de femme est un exemple des clichés de la nudité parée des femmes d'Afrique dans l'œil des photographes européens.",
       "collection": "BnF",
       "source": "http://expositions.bnf.fr/portraits/grand/013_02.htm"
+    },
+    {
+      "annee": "1884-1885",
+      "auteur": "Blaise Bonnevide",
+      "titre": "Portrait de femme",
+      "ouvrage": "Blaise Bonnevide, Portraits carte-de-visite pris à Saint-Louis du Sénégal, 1884-1885.",
+      "legende": "Blaise Bonnevide, photographe français installé au Sénégal, a réalisé de nombreux portraits photographiques de Sénégalais et Sénégalaise. Cette jeune femme porte des bijoux de tête, colliers et bracelets, accessoires de riches vêtements. On reconnaît des motifs imprimés à la cire.",
+      "collection": "BnF",
+      "source": "http://expositions.bnf.fr/portraits/grand/013_05.htm"
+    },
+    {
+      "annee": 1886,
+      "auteur": "Charles Alluaud",
+      "titre": "Alua, jeune fille d'Assinie",
+      "ouvrage": "Charles Alluaud, 47 Photos de la Côte d'Ivoire, 1886.",
+      "legende": "Cette jeune femme nue, vêtue uniquement d'un cache sexe, est probablement d'une origine modeste. On ne connaît que son prénom, Alua, et son visage, capturé par le photographe Charles Alluaud, probablement pour envoyer la photo à ses amis en Europe comme c'était l'usage pour de nombreux Européens qui résidaient dans les colonies. La posture statique de la jeune femme sur la photographie laisse penser qu'on la fait poser pour montrer son corps, dans une perspective exotisante fréquente à la fin du XIXe siècle.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b7702074h/f24.item.zoom"
+    },
+    {
+      "annee": 1922,
+      "auteur": "",
+      "titre": "Femme indigène en tenue d'apparat",
+      "ouvrage": "Coll., Le Togo, 1922",
+      "legende": "Pour quel événement cette femme a-t-elle vêtu sa tenue d'apparat ? Le photographe ne le précise pas, mais documente ici l'aspect cérémoniel du costume, que l'on porte pour une occasion particulière.",
+      "collection": "BnF",
+      "source": "https://gallica.bnf.fr/ark:/12148/bpt6k5784485m/f21.item.r=togo%20motif#"
     }
   ],
+
+
   [
     {
       "annee": "1e moitié du XXe siècle",
@@ -68,177 +201,42 @@
       "legende": "Tressée en raphia, cette robe ou cette jupe  est ornée de motifs bruns et rouges. Ce vêtement réalisé par des femmes âgées ou veuves de familles de haut lignage faisait partie d'un trésor familial et avait une fonction cérémonielle. Les feuilles du palmier-raphia sont découpées en brins, qui sont ensuite tressés en surface plane ou en tube. Le textile, auquel on fait des ligatures, est ensuite plongé dans un bain de teinture naturelle.",
       "collection": "",
       "source": "Musée du Quai Branly, n° d'inventaire : 73.1999.4.1"
+    },
+    {
+      "annee": "XXIe siècle",
+      "auteur": "",
+      "titre": "Je cours plus vite que ma rivale",
+      "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
+      "legende": "Le nom du motif de wax est souvent porteur d'une signification. Ici, la gazelle représente la vitesse de la femme jalouse qui \"court plus vite que [sa] rivale\".",
+      "collection": "",
+      "source": "Wax Stories, p. 16"
+    },
+    {
+      "annee": "XXIe siècle",
+      "auteur": "",
+      "titre": "L'Œil de ma rivale",
+      "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
+      "legende": "Porté par une femme jalouse qui n'est pas prête à partager son mari, ce motif renvoie à la tension entre deux épouses.",
+      "collection": "",
+      "source": "Wax Stories, p. 22."
+    },
+    {
+      "annee": "XXIe siècle",
+      "auteur": "",
+      "titre": "Sac de Michelle Obama",
+      "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
+      "legende": "Ce motif représentant des sacs à mains ne portait à l'origine pas le nom de Michelle Obama. Celle-ci en a changé le nom lorsqu'elle est venue sur le continent africain. Il est désormais associé à la femme de l'ancien président américain Barack Obama.",
+      "collection": "",
+      "source": "Wax Stories, p. 96"
+    },
+    {
+      "annee": "XXIe siècle",
+      "auteur": "",
+      "titre": "Si tu veux me dire quelque chose, tu t'assois et tu me le dis en face",
+      "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
+      "legende": "Ce motif est inspiré des sièges des rois des peuples Akan, qui vivaient dans les actuelles Guinée et Côte d'Ivoire. Il représente ici la femme mariée qui trône sur son foyer. Au Ghana, son nom, \"Si tu veux me dire quelque chose, tu t'assois et tu me le dis en face\", peut renvoyer à une situation de tension entre une femme et son mari. Mais au Burkina Faso, où il est connu comme \"Le tabouret des jeunes filles sans mari\", la signification semble en êtr toute autre.",
+      "collection": "",
+      "source": "Wax Stories, p. 62."
     }
-  ],
-  {
-    "annee": 1581,
-    "auteur": "Abraham De Bruyn",
-    "titre": "Africaines",
-    "ouvrage": "Jean-Jacques Boissard et Abraham De Bruyn, Habitus variarum orbis gentium, 1581.",
-    "legende": "Les illustrations de cet ouvrage de 1581 semblent bien loin de ces premières descriptions des voyageurs européens et arabes et vêtent ces trois “Africaines” de lourds drapés.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/btv1b8447128r/f70.item.zoom#"
-  },
-  {
-    "annee": "c. 1900",
-    "auteur": "",
-    "titre": "Bande de tissu",
-    "ouvrage": "",
-    "legende": "Cette bande de coton rayée pour pagne servait probablement dans des échanges en Afrique de l'Ouest, dans la ville de Kissidougou en Guinée.",
-    "collection": "Musée du Quai Branly",
-    "source": "Musée du quai branly, n° d'inventaire 71.1904.32.15"
-  },
-  {
-    "annee": 1853,
-    "auteur": "Jacques-François Llanta",
-    "titre": "Femme Maure habillée d'une pièce de Guinée bleue de l'Inde, Sénégal.",
-    "ouvrage": "David Boilat, Esquisses sénégalaises, physionomie du pays, Peuplades, Commerce, Religions, Passé et avenir, Récits et legendes, 1853.",
-    "legende": "Le vêtement est le fruit de métissages culturels et d'échanges commerciaux : sous l'influence des voyageurs arabes, et avec l'introduction de l'Islam en Afrique de l'Ouest, les corps se couvrent, comme celui de cette princesse sénégalaise vêtue d'une pièce de Guinée bleue de l'Inde.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/btv1b23001280/f12.item"
-  },
-  {
-    "annee": 1853,
-    "auteur": "Jacques-François Llanta",
-    "titre": "Ndeté-Yalla, Reine du Walo, en tenue royale, Sénégal.",
-    "ouvrage": "David Boilat, Esquisses sénégalaises, physionomie du pays, Peuplades, Commerce, Religions, Passé et avenir, Récits et legendes, 1853.",
-    "legende": "La reine Ndeté-Yalla, connue pour avoir résisté à la colonisation européenne, apparaît ici richement vêtue et parée de bijoux.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/btv1b23001280/f5.item"
-  },
-  {
-    "annee": 1982,
-    "auteur": "André Blandin",
-    "titre": "Teinture à l'indigo",
-    "ouvrage": "",
-    "legende": "Sur cette photographie prise en Côte d'Ivoire, une femme teint une pièce de tissu à l'indigo, rendant ainsi visibles sur l'étoffe des motifs imprimés à la cire.",
-    "collection": "Musée du Quai Branly",
-    "source": "http://www.quaibranly.fr/fr/explorer-les-collections/base/Bookmark/action/share/encodedNotices/YToxOntzOjQ6IldvcmsiO2E6Mjp7aTowO3M6NjoiOTYzMjUzIjtpOjE7czo2OiI0MjM2NTIiO319/"
-  },
-  {
-    "annee": "c. 1900-1925",
-    "auteur": "",
-    "titre": "Pagne",
-    "ouvrage": "",
-    "legende": "On reconnaît sur ce pagne des techniques des ethnies ewe et ashanti. La trame de coton local est teinte à l'indigo. On y a ajouté des motifs géométriques, disposés dans un arrangement aléatoire qui diffère des tissus ewe dans lesquels les motifs sont agencés de façon plus régulière. On peut observer, verticalement, la délimitation des bandes de tissu qui ont été assemblées après le tissage, car les métiers à tisser qui ont été utilisés pour ce pagne sont trop étroits pour réaliser de larges pièces de tissu. Ce type de pagnes est destiné à un chef.",
-    "collection": "Musée du Quai Branly",
-    "source": "http://www.quaibranly.fr/fr/explorer-les-collections/base/Bookmark/action/share/encodedNotices/YToxOntzOjQ6IldvcmsiO2E6Mjp7aTowO3M6NjoiNDIzNjUyIjtpOjE7czo2OiI0MzU1MzgiO319/"
-  },
-  {
-    "annee": 1640,
-    "auteur": "Willem Jansz Blaeu",
-    "titre": "Guinea",
-    "ouvrage": "Willem Jansz Blaeu, Guinea, 1640.",
-    "legende": "Sur cette carte de la Guinée, issue d’un atlas hollandais du XVIIe siècle, on peut voir la côte de Quaqua, avec les côtes de Cap Laho, surnommée Côte des Six Bandes, et de Corbi Lahou, Côte des Cinq Bandes, qui tirent leur surnom de la composition des tissus que l’on pouvait y trouver. Le navire qui semble s’éloigner de ces côtes chargé de marchandises représente bien l’enjeu commercial que représente cette région pour les empires coloniaux européens. Et pourtant déjà, les représentations des peuples qui ornent le titre oublient les usages locaux du tissu, pour représenter des corps nus, symboles d’une Afrique prétendue sauvage.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/btv1b531968312/f2.item.r=Willem%20blaeu.zoom"
-  },
-  {
-    "annee": 1796,
-    "auteur": "L. F. Labrousse",
-    "titre": "Frontispice de l'Afrique",
-    "ouvrage": "Jacques Grasset de Saint-Sauveur, Encyclopédie des voyages contenant l'abrégé historique des mœurs, usages..., religions..., sciences, arts et commerce de tous les peuples et la collection complète de leur habillement, 1796.",
-    "legende": "Sur le frontispice de l'Afrique réalisé par le lithographe L. F. Labrousse pour l'encyclopédie de Jacques Grasset de Saint-Sauveur, le continent est représenté par une femme richement vêtue mais dont le sein nu symbolise une Afrique sauvage. Il s'agit d'un code de représentation et d'un stérotype qui s'impose dans les représentations picturales de l'Afrique.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/bpt6k852587b/f13.item"
-  },
-  {
-    "annee": 1796,
-    "auteur": "L. F. Labrousse",
-    "titre": "Femme de la Côte d'or",
-    "ouvrage": "Jacques Grasset de Saint-Sauveur, Encyclopédie des voyages contenant l'abrégé historique des mœurs, usages..., religions..., sciences, arts et commerce de tous les peuples et la collection complète de leur habillement, 1796.",
-    "legende": "”L’homme du commun porte [...] une chemise , mais avec des manches ; les femmes portent aussi une robe faite à peu près comme celle des hommes ; mais outre la ceinture qui la tient retroussée, elles ont autour du corps une bande de cuir où pendent leurs couteaux, leurs bourses, et un trousseau de clefs qui leur sert d’ornement, quoique souvent elles n’ayent ni coffre, ni garde robe ; tel est l’habit qu’elles portent dans l’intérieur de leurs maisons. Quand elles sortent elles se lavent tout le corps, puis elles prennent une chemise qu’elles serrent avec une ceinture, à laquelle est attachée une autre pièce de toile qu’elles retroussent sous les bras comme une manteline : elles ont grand soin de leur tête et de tresser leurs cheveux. Elles portent des pendants d’oreilles, qui sont des boucles de cuivre jaune ; elles ont aussi des bracelets d’ivoire ou de cuivre, des anneaux aux jambes [...].”",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/bpt6k852587b/f137.item#"
-  },
-  {
-    "annee": 1796,
-    "auteur": "L. F. Labrousse",
-    "titre": "Femme de qualité et femme du commun du royaume du Bénin",
-    "ouvrage": "Jacques Grasset de Saint-Sauveur, Encyclopédie des voyages contenant l'abrégé historique des mœurs, usages..., religions..., sciences, arts et commerce de tous les peuples et la collection complète de leur habillement, 1796.",
-    "legende": "Le vêtement est un marqueur social et la nudité souvent observée et représentée par les Européens est souvent le signe d'un milieu social moins aisé. Aussi, si la \"femme du commun\" est sobrement vêtue d'un pagne et d'un collier, la \"femme de qualité\" est parée de bijoux et d'étoffes plus riches.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/bpt6k852587b/f167.item#"
-  },
-  {
-    "annee": 1796,
-    "auteur": "L. F. Labrousse",
-    "titre": "Femmes d'Issinie portant du riz",
-    "ouvrage": "Jacques Grasset de Saint-Sauveur, Encyclopédie des voyages contenant l'abrégé historique des mœurs, usages..., religions..., sciences, arts et commerce de tous les peuples et la collection complète de leur habillement, 1796.",
-    "legende": "“Le petit royaume d’Issinie est borné au nord par un peuple nommé les Kompos, à l’est par le royaume de Ghiormay, ou le cap Apollonia ; au sud, il a la mer, et à l’ouest la côte d’ivoire, quie st habitée par la nation des Quapas. [...] L’habillement des femmes consiste en un pagne fait d’une étoffe rayée, et soutenue par un morceau qui passe sur l’épaule, et qui sert à porter les enfants. Le tour de leurs reins, leurs bras et leurs jambes sont chargés de divers ornements de cuivre, d’étain ou d’ivoire.”",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/bpt6k852587b/f115.item#"
-  },
-  {
-    "annee": "1897-1910",
-    "auteur": "Michel Regnault",
-    "titre": "Sans titre [portrait d'ne femme, de face, en robe]",
-    "ouvrage": "",
-    "legende": "On sait peu de choses de cete photographie d'une femme debout, de face, prise au tournant du siècle. Son auteur, Michel Regnault, a saisi de nombreux clichés lors de son voyage au Congo. Mais l'usage du drapé et du motif montre, au-delà de notre région, la continuité comme la variété des costumes sur le continent.",
-    "collection": "Musée du Quai Branly, n°de gestion : PP0226320",
-    "source": "http://www.quaibranly.fr/fr/explorer-les-collections/base/Work/action/show/notice/921165-sans-titre-portrait-dune-femme-de-face-en-robe/page/7/"
-  },
-  {
-    "annee": "1884-1885",
-    "auteur": "Blaise Bonnevide",
-    "titre": "Portrait de femme",
-    "ouvrage": "Blaise Bonnevide, Portraits carte-de-visite pris à Saint-Louis du Sénégal, 1884-1885.",
-    "legende": "Blaise Bonnevide, photographe français installé au Sénégal, a réalisé de nombreux portraits photographiques de Sénégalais et Sénégalaise. Cette jeune femme porte des bijoux de tête, colliers et bracelets, accessoires de riches vêtements. On reconnaît des motifs imprimés à la cire.",
-    "collection": "BnF",
-    "source": "http://expositions.bnf.fr/portraits/grand/013_05.htm"
-  },
-  {
-    "annee": 1886,
-    "auteur": "Charles Alluaud",
-    "titre": "Alua, jeune fille d'Assinie",
-    "ouvrage": "Charles Alluaud, 47 Photos de la Côte d'Ivoire, 1886.",
-    "legende": "Cette jeune femme nue, vêtue uniquement d'un cache sexe, est probablement d'une origine modeste. On ne connaît que son prénom, Alua, et son visage, capturé par le photographe Charles Alluaud, probablement pour envoyer la photo à ses amis en Europe comme c'était l'usage pour de nombreux Européens qui résidaient dans les colonies. La posture statique de la jeune femme sur la photographie laisse penser qu'on la fait poser pour montrer son corps, dans une perspective exotisante fréquente à la fin du XIXe siècle.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/btv1b7702074h/f24.item.zoom"
-  },
-  {
-    "annee": 1922,
-    "auteur": "",
-    "titre": "Femme indigène en tenue d'apparat",
-    "ouvrage": "Coll., Le Togo, 1922",
-    "legende": "Pour quel événement cette femme a-t-elle vêtu sa tenue d'apparat ? Le photographe ne le précise pas, mais documente ici l'aspect cérémoniel du costume, que l'on porte pour une occasion particulière.",
-    "collection": "BnF",
-    "source": "https://gallica.bnf.fr/ark:/12148/bpt6k5784485m/f21.item.r=togo%20motif#"
-  },
-  {
-    "annee": "XXIe siècle",
-    "auteur": "",
-    "titre": "Je cours plus vite que ma rivale",
-    "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
-    "legende": "Le nom du motif de wax est souvent porteur d'une signification. Ici, la gazelle représente la vitesse de la femme jalouse qui \"court plus vite que [sa] rivale\".",
-    "collection": "",
-    "source": "Wax Stories, p. 16"
-  },
-  {
-    "annee": "XXIe siècle",
-    "auteur": "",
-    "titre": "L'Œil de ma rivale",
-    "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
-    "legende": "Porté par une femme jalouse qui n'est pas prête à partager son mari, ce motif renvoie à la tension entre deux épouses.",
-    "collection": "",
-    "source": "Wax Stories, p. 22."
-  },
-  {
-    "annee": "XXIe siècle",
-    "auteur": "",
-    "titre": "Sac de Michelle Obama",
-    "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
-    "legende": "Ce motif représentant des sacs à mains ne portait à l'origine pas le nom de Michelle Obama. Celle-ci en a changé le nom lorsqu'elle est venue sur le continent africain. Il est désormais associé à la femme de l'ancien président américain Barack Obama.",
-    "collection": "",
-    "source": "Wax Stories, p. 96"
-  },
-  {
-    "annee": "XXIe siècle",
-    "auteur": "",
-    "titre": "Si tu veux me dire quelque chose, tu t'assois et tu me le dis en face",
-    "ouvrage": "Marie-Cécile Zinsou (dir.), Wax Stories, 2019.",
-    "legende": "Ce motif est inspiré des sièges des rois des peuples Akan, qui vivaient dans les actuelles Guinée et Côte d'Ivoire. Il représente ici la femme mariée qui trône sur son foyer. Au Ghana, son nom, \"Si tu veux me dire quelque chose, tu t'assois et tu me le dis en face\", peut renvoyer à une situation de tension entre une femme et son mari. Mais au Burkina Faso, où il est connu comme \"Le tabouret des jeunes filles sans mari\", la signification semble en êtr toute autre.",
-    "collection": "",
-    "source": "Wax Stories, p. 62."
-  }
+  ]
 ]

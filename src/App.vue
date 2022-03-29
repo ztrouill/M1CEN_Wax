@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <!--<Welcome>-->
+
+    <Welcome/>
 
     <Chapitre v-for="chapitre in chapitres"
               :key="chapitre.id"
@@ -9,7 +10,8 @@
               :content="content[chapitre.id]"
               />
 
-    <!--<Galerie-->
+    <Galerie :chapitre="chapitres"
+              :source="src"/>
   </div>
 </template>
 
@@ -18,20 +20,24 @@
 //https://stackoverflow.com/questions/40491506/vue-js-dynamic-images-not-working
 
 import Chapitre from '@/components/Chapitre.vue'
-//import Introduction from '@/components/Introduction.vue'
+import Welcome from '@/components/Welcome.vue'
+import Galerie from '@/components/Galerie.vue'
 import partie0 from "@/assets/data/partie0.json"
 import partie1 from "@/assets/data/partie1.json"
 import partie2 from "@/assets/data/partie2.json"
 import partie3 from "@/assets/data/partie3.json"
 import source from '@/assets/data/sources.json'
 
+
+
 export default {
   name: 'App',
   components: {
-    Chapitre
+    Chapitre, Galerie, Welcome
   },
   data() {
     return {
+    
       isFocus: false,
       src: source,
       content : [partie0, partie1, partie2, partie3],
@@ -64,6 +70,7 @@ export default {
             route: "langage-non-verbal",
             isActive: false
           }
+          
       ],
     }
   },
@@ -91,5 +98,14 @@ a, ul {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: $black;
+}
+
+html {
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
 }
 </style>
